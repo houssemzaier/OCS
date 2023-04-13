@@ -1,0 +1,10 @@
+#start debugging
+#adb shell setprop debug.firebase.analytics.app PACKAGE_NAME
+adb shell setprop debug.firebase.analytics.app com.bravedroid.calculator.android
+
+#stop debugging
+#adb shell setprop debug.firebase.analytics.app .none.
+
+
+#check debugView
+https://console.firebase.google.com/u/0/project/calculator-89a6f/analytics/app/android:com.bravedroid.calculator.android/debugview?hl=fr

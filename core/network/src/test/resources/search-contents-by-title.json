@@ -1,0 +1,95 @@
+{
+  "template": "search",
+  "parentalrating": 1,
+  "title": "Recherche",
+  "offset": 1,
+  "limit": "none",
+  "next": null,
+  "previous": null,
+  "total": 3,
+  "count": 3,
+  "filter": null,
+  "sort": null,
+  "contents": [
+    {
+      "title": [
+        {
+          "color": null,
+          "type": "text",
+          "value": "ROUGE"
+        }
+      ],
+      "subtitle": "drame",
+      "subtitlefocus": [
+        "drame"
+      ],
+      "highlefticon": null,
+      "highrighticon": [
+        "bientot"
+      ],
+      "lowrightinfo": null,
+      "imageurl": "/data_plateforme/program/54396/origin_rougexxxxxxw0169949_35i06.jpg?size=small",
+      "fullscreenimageurl": "/data_plateforme/program/54396/origin_rougexxxxxxw0169949_35i06.jpg?size=large",
+      "id": "ROUGEXXXXXXW0169949",
+      "detaillink": "/apps/v2/details/programme/ROUGEXXXXXXW0169949",
+      "duration": "PT1H25M43S",
+      "playinfoid": {
+        "hd": null,
+        "sd": null,
+        "uhd": null
+      }
+    },
+    {
+      "title": [
+        {
+          "color": null,
+          "type": "text",
+          "value": "ROUGE BAISER"
+        }
+      ],
+      "subtitle": "classique, comédie romantique, drame",
+      "subtitlefocus": [
+        "classique, comédie romantique, drame"
+      ],
+      "highlefticon": null,
+      "highrighticon": null,
+      "lowrightinfo": null,
+      "imageurl": "/data_plateforme/program/53891/origin_rougebaiserw0195135_gevsu.jpg?size=small",
+      "fullscreenimageurl": "/data_plateforme/program/53891/origin_rougebaiserw0195135_gevsu.jpg?size=large",
+      "id": "ROUGEBAISERW0195135",
+      "detaillink": "/apps/v2/details/programme/ROUGEBAISERW0195135",
+      "duration": "PT1H49M9S",
+      "playinfoid": {
+        "hd": "159889F7-C540-C8DC-8939-F2E360E45A53",
+        "sd": "159889F7-C540-C8DC-8939-F2E360E45A53",
+        "uhd": null
+      }
+    },
+    {
+      "title": [
+        {
+          "color": null,
+          "type": "text",
+          "value": "ALLIANCES ROUGE SANG"
+        }
+      ],
+      "subtitle": "drame, policier",
+      "subtitlefocus": [
+        "drame, policier"
+      ],
+      "highlefticon": null,
+      "highrighticon": null,
+      "lowrightinfo": null,
+      "imageurl": "/data_plateforme/program/51957/origin_alliancesrow0189484_0i73f.jpg?size=small",
+      "fullscreenimageurl": "/data_plateforme/program/51957/origin_alliancesrow0189484_0i73f.jpg?size=large",
+      "id": "ALLIANCESROW0189484",
+      "detaillink": "/apps/v2/details/programme/ALLIANCESROW0189484",
+      "duration": "PT1H28M5S",
+      "playinfoid": {
+        "hd": "BC0B731E-4F20-03F2-5F39-706A7D5A9706",
+        "sd": "BC0B731E-4F20-03F2-5F39-706A7D5A9706",
+        "uhd": null
+      }
+    }
+  ]
+}

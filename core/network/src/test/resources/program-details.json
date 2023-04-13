@@ -1,0 +1,92 @@
+{
+  "template": "detail",
+  "parentalrating": 1,
+  "categoryID": 23,
+  "contents": {
+    "parentalrating": 1,
+    "isbookmarkable": true,
+    "isdownloadable": true,
+    "number": null,
+    "title": [
+      {
+        "type": "text",
+        "value": "ROUGE",
+        "color": null
+      }
+    ],
+    "duration": "PT1H25M43S",
+    "availability": [
+      {
+        "type": "picto",
+        "value": "clock",
+        "color": null
+      },
+      {
+        "type": "text",
+        "value": "disponible en mai 2023",
+        "color": "#FF6600"
+      }
+    ],
+    "summary": "Nour, infirmi\u00e8re de formation, est embauch\u00e9e dans l'usine chimique o\u00f9 son p\u00e8re est d\u00e9l\u00e9gu\u00e9 syndical. Lorsqu'une journaliste commence \u00e0 poser des questions sur les rejets toxiques de l'usine, Nour fait le lien avec l'\u00e9tat de sant\u00e9 des ouvriers qui passent \u00e0 son cabinet. Pourtant, elle est surprise de constater que la plupart gardent le silence, de crainte de perdre leur emploi. La curiosit\u00e9 de la jeune femme la pousse \u00e0 se demande le r\u00f4le que peut bien jouer son p\u00e8re, lui qui affirme cat\u00e9goriquement qu'il n'y a aucun probl\u00e8me. Drame social, familial et \u00e9cologique, \"Rouge\" prend appui sur un brillant casting pour raconter un r\u00e9cit h\u00e9las inspir\u00e9e d'une histoire vraie.",
+    "highlefticon": null,
+    "highrighticon": "bientot",
+    "subtitle": null,
+    "subtitlefocus": null,
+    "pitch": "Nour, infirmi\u00e8re de formation, est embauch\u00e9e dans l'usine chimique o\u00f9 son p\u00e8re est d\u00e9l\u00e9gu\u00e9 syndical. Lorsqu'une journaliste commence \u00e0 poser des questions sur les rejets toxiques de l'usine, Nour fait le lien avec l'\u00e9tat de sant\u00e9 des ouvriers qui passent \u00e0 son cabinet. Pourtant, elle est surprise de constater que la plupart gardent le silence, de crainte de perdre leur emploi. La curiosit\u00e9 de la jeune femme la pousse \u00e0 se demande le r\u00f4le que peut bien jouer son p\u00e8re, lui qui affirme cat\u00e9goriquement qu'il n'y a aucun probl\u00e8me. Drame social, familial et \u00e9cologique, \"Rouge\" prend appui sur un brillant casting pour raconter un r\u00e9cit h\u00e9las inspir\u00e9e d'une histoire vraie.",
+    "bannerinfo": [
+      {
+        "type": "picto",
+        "value": "csa1",
+        "color": null
+      },
+      {
+        "type": "text",
+        "value": "1h25",
+        "color": "#9a9a9a"
+      }
+    ],
+    "description": [
+      [
+        "film"
+      ],
+      [
+        "pays : France",
+        "r\u00e9alis\u00e9 par Farid Bentoumi"
+      ],
+      [
+        "ann\u00e9e de production : 2020",
+        "genre : drame"
+      ],
+      [
+        "Avec Zita Hanrot (Nour Hamadi), Sami Bouajila (Slimane Hamadi), C\u00e9line Sallette (Emma), Olivier Gourmet (St\u00e9phane Perez), Alka Balbir (Sofia), Henri-No\u00ebl Tabary, Josiane Vermare (Nicole)"
+      ]
+    ],
+    "imageurl": "\/data_plateforme\/program\/54396\/origin_rougexxxxxxw0169949_35i06.jpg?size=medium",
+    "fullscreenimageurl": "\/data_plateforme\/program\/54396\/origin_rougexxxxxxw0169949_35i06.jpg?size=large",
+    "linearplanning": [
+      "lundi 29\/05 \u00e0 21:00 sur OCS Max",
+      "mercredi 31\/05 \u00e0 19:25 sur OCS Max"
+    ],
+    "acontents": null,
+    "playinfoid": {
+      "sd": null,
+      "hd": null,
+      "uhd": null
+    },
+    "playinfo": {
+      "tokenurl": null,
+      "url": null
+    },
+    "id": "ROUGEXXXXXXW0169949",
+    "zonesinfo": {
+      "duration": 5147,
+      "endcreditsautocompleted": false,
+      "previouslytcin": null,
+      "previouslytcout": null,
+      "startcreditstcin": 25,
+      "startcreditstcout": 117,
+      "endcreditstcin": 4912,
+      "endcreditstcout": 5147
+    }
+  }
+}

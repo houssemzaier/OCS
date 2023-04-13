@@ -1,0 +1,11 @@
+root = true
+
+[*.{kt,kts}]
+insert_final_newline = true
+ktlint_disabled_rules = no-wildcard-imports, package-name
+indent_size = 4
+max_line_length = 150
+ij_kotlin_allow_trailing_comma = true
+ij_kotlin_allow_trailing_comma_on_call_site = true
+
+#WARNING: Intellij Autoformat issue on this file. DO NOT AUTO FORMAT!
